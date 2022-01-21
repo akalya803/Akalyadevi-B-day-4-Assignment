@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>CSS</title>
+<body>
+<h1 style="color:violet;">Contact form</h1>
+<pre>Details of the contactor</pre>
+<p class"bgyellow">
+The main details and information about the contactor is
+is filled.This is a new html page with css to create a 
+new contactor form by styling the page by changing the
+color.
+<h2 style="color:Yellow:">Details</h2>
+<!--list-->
+<ul>
+<li>Name</li>
+<li>Number</li>
+<li>About</li>
+</ul>
+</body>
+</head>
+</html>
+
